@@ -77,28 +77,3 @@ namespace http {
         }
     }
 }
-
-namespace http
-{
-    class Proc
-    {
-        static void keil(string[] args)
-        {
-            
-        }
-    }
-
-}
-
-
-
-namespace get_local_ip_address
-{
-    class Program
-    {
-        static void veil(string[] args)
-        {
-           
-        }
-    }
-}
