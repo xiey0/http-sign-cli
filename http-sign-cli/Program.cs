@@ -1,4 +1,4 @@
-﻿//No attack for the shit code. Fuck you all.
+﻿//No attack for the shit & stolen code. Fuck you all.
 using System;
 using System.Net;
 using System.Net.Sockets;
